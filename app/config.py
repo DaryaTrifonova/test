@@ -3,7 +3,7 @@ import os
 SECRET_KEY = 'c21b53cf1799629b3ac0acd3a46581c5afd4b370127f7d2ee3face937142'
 
 # SQLALCHEMY_DATABASE_URI = 'sqlite:///C:\\Users\\Huawei\\Desktop\\app\\database.sqlite3'
-SQLALCHEMY_DATABASE_URI = 'sqlite:////website1/test2/app/database.sqlite3'
+SQLALCHEMY_DATABASE_URI = 'sqlite:////home/test_admin/website/test/app/database.sqlite3'
 SQLALCHEMY_TRACK_MODIFICATIONS = False
 SQLALCHEMY_ECHO = True
 
